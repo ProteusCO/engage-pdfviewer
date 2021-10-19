@@ -40,6 +40,6 @@
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
-    "pdfjs-dist": "^2.2.228"
+    "pdfjs-dist": "2.6.347"
   }
 }
